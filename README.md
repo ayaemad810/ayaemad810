@@ -12,7 +12,7 @@
 </p> 
 
 - 🏢 I'm a Software Engineer 
--  .I really enjoy learning Programming languages and frameworks and anything related to web development.
+-  I really enjoy learning Programming languages and frameworks and anything related to web development.
 
 ### Connect with Me :
 
